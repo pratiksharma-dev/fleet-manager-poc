@@ -1,0 +1,21 @@
+{
+    "stages": [
+        {
+            "name": "stage1",
+            "groups": [
+                {
+                    "name": "dev"
+                }
+            ],
+            "afterStageWaitInSeconds": 3600
+        },
+        {
+            "name": "stage2",
+            "groups": [
+                {
+                    "name": "stage"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+apiVersion: v1
+clusters:
+- cluster:
+    certificate-authority-data: LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUU2VENDQXRHZ0F3SUJBZ0lSQUlhNVJqSERTY1g1ZHFTOW84aGY5Nnd3RFFZSktvWklodmNOQVFFTEJRQXcKRFRFTE1Ba0dBMVVFQXhNQ1kyRXdJQmNOTWpNd056QXpNakkwTURFMVdoZ1BNakExTXpBM01ETXlNalV3TVRWYQpNQTB4Q3pBSkJnTlZCQU1UQW1OaE1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBCnc3OXhuU1pkeGRwSS96UGw2T3k4UGhBM0FRbGFLMCtSTDVsOWY1RGoxcndEcXl4MEVHRVA4a081dnpBd2NwZVAKYi9GZWlSSE5hREs3a0Rpdys2a3NFaXF2TDg3dTVqaTdLdzU1OFFyRmNMRDNlNzNlZE9GaDA2RU9CNDdQeWh1YgplVjg4NDdqYU9RL25wWnlLWFFpVXdGL2YyQ1FXTG94ekxKK1hoMDdxODRtVzFBYkJtdldMQkt5RkZ5V3dmSk1OCi9IYlppcEQvdlZZU2g3M2kvYm9hemRMTWxLT0NZUVlEVXZmWk5WTm9YYlpRbjlnR2I5aWdONllqZGl4Z3kzd28KYURBcXUvWko4aXFheEVtSkRzQ3hBd0ozaTVYQXJMVUI0NHFnRzdVMFZIWGlpKzJTS21RSUJXSm5sMENTbDBqNApzd2ZqNWFyNnRuRjh5ZmJIaHFsRXhSMDRVOVc5QnpDdExoVlBaODRWL1F6aElYNk5yeFdDZWdzNHQ5Z2w3andJCmNEaG9UTGlGVmtMODBTVUZzVTYyZzZHaEpnTW9meVl5V2dkNjFPaWF0OVgyYUYvNGora2RNTjV0cUJIRmN0YzcKL1A3OG1LQTdmY0pYcm9XbGZMeG4xWHAvMlFhM0RyMXhycGpwdkdoeGUraVBlaE5Ub2phRm9EeUc4aUtyeUkrbwovVjVrTnYvMFBjRkNaRkJMOWJXY0xmci95d28vZkRRU09vNnpNTW9CT1JxcXBoR2lhVGxhT0Myblh1eVpkRTJRCmpidjd2ejZGR2FpaXFId3dVZnNXdUs1bUxVRE4zWGpmekRqWjhUNUt0cjU0UTdHZVpTUmtqN0RFREFSUkZsVSsKNVpXYWNiM3Zqdkw2SVJHY21kOGlzTFdoUGJ1TzB2RUthZUNscWxsVHJZc0NBd0VBQWFOQ01FQXdEZ1lEVlIwUApBUUgvQkFRREFnS2tNQThHQTFVZEV3RUIvd1FGTUFNQkFmOHdIUVlEVlIwT0JCWUVGSzNJMDNPK3J6eVBLdU9QCkJxZFFpUzZoQWdLL01BMEdDU3FHU0liM0RRRUJDd1VBQTRJQ0FRQmMrZFJNYWZtNXlkdmx5Mno2VHFMa1VZbzMKS2V2d3VsOE9pWmViRFYwMDZXVGhGWVZiSEFpeDI3U0RYOG9OMVp5cnFDeGlBTUFrT1BqWnZMY2lhOHRublpydAp5NkZFSWxsRndpaVFhUk1MOEhyaWgrbnZIUUoxeE1GMSt3OGRZWHZHSkV0TGdIUW14RklOYUY5QWpqNE9FY0I4CmdNTzFWUWFLd1N2ZTFLTkNEMXYwYUtTVVJLbC9lN09TbytTZ0JHNHpYNmpaYzgxRjgrQ1FndWtIYmhiRHlSVUgKbHp3Rk1qaHNFeXdkejFzRjhQQmFtVkhyQkFjRlBIUERabTdLTmJ1RXNmQlRTQVgxczBxeFZNZElJeXZTWDFsYgo5ekJ6QnJuS0dVT1I4Yk5RWXJsTk0xNGxiTjRhc3l0aURnSUpKZ3hlVlBjSXlUREU0RlpJMlhMOFBXUU9NL2JkCjVBTUN3ajkxT2ExSUZBM0pyTWNCSWJ6QUQrUkFsUGFaTEVjaS9zRXhWeVFhNmszYi9Md2x3QytWNlVRQkxIOE8KMTlvL29vbWVHNkViVVZQVUkxRVhpb2lwZkJSTk5IUXM0MWJOQVpXNS9MaElCTnJjL0luRzY0NGhzWEpZWTFzNQpKd2VBYk9iUkNJdk8rZ1NMNXMyeWZWbmUvb1QxMzNQaWUvb3EzRzJzRGVSaVZnODdSNzZIWU1uZmlRNVRVUWpUCkpqWjhSZERZT090UE5Rd282NEhBTjZ2dTFQUkdMSm5ONXBRSnBvYTY5TFZacm1QcUdJQWNWYmJZOHQxUnc2QzYKYTVNUlRROXJGcjJCTjgrU3JaUXNab1ZiKy9yNkhGQXpQNmMxSFJ5d3BRZEt0bzN4Z0xTQVFoSVVEc3BIVnpPZgpKOFR4UlRaM2ZONEVkOERDeUE9PQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==
+    server: https://az-k8s-hmjnpoc44-dns-njm7iqhv.hcp.eastus.azmk8s.io:443
+  name: aks-az-k8s-hmjnpoc44
+contexts:
+- context:
+    cluster: aks-az-k8s-hmjnpoc44
+    user: clusterUser_az-k8s-hmjn-poc-rg_aks-az-k8s-hmjnpoc44
+  name: aks-az-k8s-hmjnpoc44
+current-context: aks-az-k8s-hmjnpoc44
+kind: Config
+preferences: {}
+users:
+- name: clusterUser_az-k8s-hmjn-poc-rg_aks-az-k8s-hmjnpoc44
+  user:
+    exec:
+      apiVersion: client.authentication.k8s.io/v1beta1
+      args:
+      - get-token
+      - --environment
+      - AzurePublicCloud
+      - --server-id
+      - 6dae42f8-4368-4678-94ff-3960e28e3630
+      - --client-id
+      - 80faf920-1908-4b52-b5ef-a8e7bedfc67a
+      - --tenant-id
+      - 2fc7f971-9359-4819-b065-c8d79e9de9e0
+      - --login
+      - devicecode
+      command: kubelogin
+      env: null
+      installHint: '
+
+        kubelogin is not installed which is required to connect to AAD enabled cluster.
+
+
+        To learn more, please go to https://aka.ms/aks/kubelogin
+
+        '
+      provideClusterInfo: false
