@@ -1,1 +1,1 @@
-echo "Helllo" > ~/hello.txt
+echo "Helllo" > /tmp/hello.txt
